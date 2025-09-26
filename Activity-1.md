@@ -1,4 +1,12 @@
-# Activity 1: Simulted Ticket Creation.
+# Brief Info about Spiceworks Help Desk Portal 
 
-Objective: Understand how tickets are created and categorized. 
-https://github.com/bhupinder58/Activities-with-Ticketing-System-/blob/main/images/Home%20Spiceworks.png
+
+
+- The following image will show open tickets: 
+![](https://github.com/bhupinder58/Activities-with-Ticketing-System-/blob/main/images/Home%20Spiceworks.png)
+
+
+- Dashboard of the portal: 
+
+![](https://github.com/bhupinder58/Activities-with-Ticketing-System-/blob/main/images/Dashboard.png)
+

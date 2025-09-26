@@ -1,2 +1,3 @@
-# Activities-with-Ticketing-System-
-Hands on activities for Ticketing System 
+# Spiceworks Help Desk Ticketing-System-
+
+Doing hands on Ticket labs for IT support
